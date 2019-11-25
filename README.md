@@ -11,7 +11,7 @@ and the entries will be like this                 1 | 2 | 3
 here 1,2,3,4,5,6,7,8,9 are the positions have to choose, each player have to choose positions one after another.
 
 example:
-Player 1 : 2  
+Player 1 : 2 
                  1 | X | 3
                  4 | 5 | 6
                  7 | 8 | 9
